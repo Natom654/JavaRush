@@ -9,10 +9,17 @@ The Caesar cipher is a technique in which an encryption algorithm is used to cha
 Features:
 
 Ukrainian / English language
+
 read text from file
+
 encrypt , decrypt however long text
+
 use a key to encrypt / decrypt with
+
 text retains original formatting
+
 write text to the file
+
 decrypt text with brute force
+
 the program can be run from the console
